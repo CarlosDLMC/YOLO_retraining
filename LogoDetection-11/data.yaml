@@ -1,0 +1,24 @@
+names:
+- BBVA
+- bizum
+- bizum_txt
+- getnet
+- microsoft
+- microsoft_txt
+- oracle
+- pago_nxt
+- paypal
+- paypal_txt
+- santander
+- vmware
+nc: 12
+roboflow:
+  license: CC BY 4.0
+  project: logodetection-3u4zw
+  url: https://universe.roboflow.com/santanderlogos/logodetection-3u4zw/dataset/11
+  version: 11
+  workspace: santanderlogos
+test: /home/mentefria/Documents/YOLO_retraining/LogoDetection-11/test/images
+train: /home/mentefria/Documents/YOLO_retraining/LogoDetection-11/train/images
+val: /home/mentefria/Documents/YOLO_retraining/LogoDetection-11/valid/images
+
